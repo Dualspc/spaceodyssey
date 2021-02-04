@@ -148,13 +148,13 @@ highlights:
     # Misc
     TSError: "spaceodyssey11 - u"
     TSPunctDelimiter: "spaceodyssey9"
-    TSPunctBracket: "spaceodyssey6"
+    TSPunctBracket: "spaceodyssey13"
     TSPunctSpecial: "spaceodyssey6"
     # Constants
     TSConstant: "spaceodyssey8"
     TSConstBuiltin: "spaceodyssey9"
     TSConstMacro: "spaceodyssey7"
-    TSStringRegex: "spaceodyssey14"
+    TSStringRegex: "spaceodyssey12"
     TSString: "spaceodyssey14"
     TSStringEscape: "spaceodyssey8"
     TSCharacter: "spaceodyssey14"
