@@ -203,3 +203,10 @@ hi NvimTreeGitMerge guifg=#bf616a ctermfg=131 guibg=#1c2023 ctermbg=234 gui=NONE
 hi NvimTreeGitRenamed guifg=#bf616a ctermfg=131 guibg=#1c2023 ctermbg=234 gui=NONE cterm=NONE
 hi NvimTreeGitNew guifg=#bf616a ctermfg=131 guibg=#1c2023 ctermbg=234 gui=NONE cterm=NONE
 hi NvimTreeRootFolder guifg=#a3be8c ctermfg=144 guibg=#1c2023 ctermbg=234 gui=NONE cterm=NONE
+hi rainbowcol1 guifg=#5e81ac ctermfg=67 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi rainbowcol2 guifg=#a3be8c ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi rainbowcol3 guifg=#96b4b5 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi rainbowcol4 guifg=#d08770 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi rainbowcol5 guifg=#b48ead ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi rainbowcol6 guifg=#ebcb8b ctermfg=222 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi rainbowcol7 guifg=#bf616a ctermfg=131 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

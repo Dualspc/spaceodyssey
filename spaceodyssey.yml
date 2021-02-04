@@ -266,3 +266,11 @@ highlights:
     NvimTreeGitNew: "spaceodyssey11 spaceodyssey0"
     NvimTreeRootFolder: "spaceodyssey14 spaceodyssey0"
 
+    # Nvim-Treesitter-rainbow
+    rainbowcol1: "spaceodyssey10"
+    rainbowcol2: "spaceodyssey14"
+    rainbowcol3: "spaceodyssey7"
+    rainbowcol4: "spaceodyssey12"
+    rainbowcol5: "spaceodyssey15"
+    rainbowcol6: "spaceodyssey13"
+    rainbowcol7: "spaceodyssey11"
