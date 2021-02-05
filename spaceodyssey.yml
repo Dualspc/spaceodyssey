@@ -183,7 +183,7 @@ highlights:
     TSKeywordOperator: "spaceodyssey11"
     TSOperator: "spaceodyssey11"
     TSException: "spaceodyssey9"
-    TSType: "spaceodyssey12"
+    TSType: "spaceodyssey9"
     TSTypeBuiltin: "spaceodyssey11"
     TSStructure: "spaceodyssey13"
     TSInclude: "spaceodyssey9"
