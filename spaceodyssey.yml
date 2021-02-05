@@ -148,7 +148,7 @@ highlights:
     # Misc
     TSError: "spaceodyssey11 - u"
     TSPunctDelimiter: "spaceodyssey9"
-    TSPunctBracket: "spaceodyssey13"
+    TSPunctBracket: "spaceodyssey4"
     TSPunctSpecial: "spaceodyssey6"
     # Constants
     TSConstant: "spaceodyssey8"
