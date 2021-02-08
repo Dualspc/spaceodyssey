@@ -7,7 +7,6 @@ palette:
     fg: "#Eceff4"
     bg: "#1c2023"
 
-    spaceodyssey0: "#1c2023"
     spaceodyssey1: "#1c2023"
     spaceodyssey2: "#2D3439"
     spaceodyssey3: "#4e5961"
@@ -23,32 +22,29 @@ palette:
     spaceodyssey13: "#EBCB8B"
     spaceodyssey14: "#A3BE8C"
     spaceodyssey15: "#B48EAD"
-    spaceodyssey16: "#919ba0"
-    spaceodyssey17: "#15191b"
-    spaceodyssey18: "#778899"
-    spaceodyssey19: "#697884"
-    spaceodyssey20: "#242a2e"
+    spaceodyssey16: "#697884"
+    spaceodyssey17: "#242a2e"
 
 highlights:
 
     # Editor
     ColorColumn: "- spaceodyssey2"
-    Cursor: "spaceodyssey0 spaceodyssey4"
+    Cursor: "spaceodyssey1 spaceodyssey4"
     CursorLine: "- spaceodyssey1"
     Error: "spaceodyssey4 spaceodyssey11"
     LineNr: "spaceodyssey3"
     MatchParen: "spaceodyssey8 spaceodyssey3"
     NonText: "spaceodyssey2"
-    Normal: "spaceodyssey4 spaceodyssey0"
-    Pmenu: "spaceodyssey19 spaceodyssey20"
+    Normal: "spaceodyssey4 spaceodyssey1"
+    Pmenu: "spaceodyssey16 spaceodyssey17"
     PmenuSbar: "spaceodyssey6 spaceodyssey2"
     PmenuSel: "spaceodyssey6 spaceodyssey2"
-    PmenuThumb: "spaceodyssey6 spaceodyssey19"
+    PmenuThumb: "spaceodyssey6 spaceodyssey16"
     SpecialKey: "spaceodyssey3"
-    SpellBad: "spaceodyssey11 spaceodyssey0 u"
+    SpellBad: "spaceodyssey11 spaceodyssey1 u"
     SpellCap: "spaceodyssey13 spaceodyssey8 u"
-    SpellLocal: "spaceodyssey5 spaceodyssey0 u"
-    SpellRare: "spaceodyssey6 spaceodyssey0 u"
+    SpellLocal: "spaceodyssey5 spaceodyssey1 u"
+    SpellRare: "spaceodyssey6 spaceodyssey1 u"
     Visual: "- spaceodyssey2"
     VisualNOS: "- spaceodyssey2"
     QuickFixLine: "bg spaceodyssey13"
@@ -62,9 +58,9 @@ highlights:
     # Gutter
     CursorColumn: "- spaceodyssey1"
     CursorLineNr: "spaceodyssey7"
-    Folded: "spaceodyssey3 spaceodyssey0"
-    FoldColumn: "spaceodyssey3 spaceodyssey0"
-    SignColumn: "spaceodyssey1 spaceodyssey0"
+    Folded: "spaceodyssey3 spaceodyssey1"
+    FoldColumn: "spaceodyssey3 spaceodyssey1"
+    SignColumn: "spaceodyssey1 spaceodyssey1"
 
     # Navigation
     Directory: "spaceodyssey15"
@@ -79,12 +75,12 @@ highlights:
     StatusLineNC: "spaceodyssey4 spaceodyssey1"
     StatusLineTerm: "spaceodyssey8 spaceodyssey1"
     StatusLineTermNC: "spaceodyssey4 spaceodyssey1"
-    WarningMsg: "spaceodyssey0 spaceodyssey13"
+    WarningMsg: "spaceodyssey1 spaceodyssey13"
     WildMenu: "spaceodyssey8 spaceodyssey1"
 
     # Search (using high contrast search)
-    IncSearch: "spaceodyssey0 spaceodyssey13 u"
-    Search: "spaceodyssey0 spaceodyssey13"
+    IncSearch: "spaceodyssey1 spaceodyssey13 u"
+    Search: "spaceodyssey1 spaceodyssey13"
 
     # Tabs
     TabLine: "spaceodyssey4 spaceodyssey1"
@@ -93,12 +89,12 @@ highlights:
 
     # Window
     Title: "spaceodyssey4"
-    VertSplit: "spaceodyssey2 spaceodyssey0"
+    VertSplit: "spaceodyssey2 spaceodyssey1"
 
     # Language Base Groups
     Boolean: "spaceodyssey9"
     Character: "spaceodyssey14"
-    Comment: "spaceodyssey19 - i"
+    Comment: "spaceodyssey16 - i"
     Conditional: "spaceodyssey9"
     Constant: "spaceodyssey8"
     Define: "spaceodyssey9"
@@ -137,7 +133,7 @@ highlights:
     diffChanged: "spaceodyssey13"
     diffRemoved: "spaceodyssey11"
     diffFileId: "spaceodyssey10 - br"
-    diffFile: "spaceodyssey18"
+    diffFile: "spaceodyssey16"
     diffNewFile: "spaceodyssey14"
     diffOldFile: "spaceodyssey11"
     gitconfigVariable: "spaceodyssey7"
@@ -153,13 +149,13 @@ highlights:
     # Constants
     TSConstant: "spaceodyssey8"
     TSConstBuiltin: "spaceodyssey9"
-    TSConstMacro: "spaceodyssey7"
+    TSConstMacro: "spaceodyssey15"
     TSStringRegex: "spaceodyssey12"
     TSString: "spaceodyssey14"
     TSStringEscape: "spaceodyssey8"
     TSCharacter: "spaceodyssey14"
     TSNumber: "spaceodyssey15"
-    TSBoolean: "spaceodyssey9"
+    TSBoolean: "spaceodyssey15"
     TSFloat: "spaceodyssey15"
     TSAnnotation: "spaceodyssey12"
     TSAttribute: "spaceodyssey7"
@@ -183,10 +179,9 @@ highlights:
     TSKeywordOperator: "spaceodyssey11"
     TSOperator: "spaceodyssey11"
     TSException: "spaceodyssey9"
-    TSType: "spaceodyssey9"
+    TSType: "spaceodyssey8"
     TSTypeBuiltin: "spaceodyssey11"
-    TSStructure: "spaceodyssey13"
-    TSInclude: "spaceodyssey9"
+    TSInclude: "spaceodyssey15"
     # Variable
     TSVariable: "spaceodyssey5"
     TSVariableBuiltin: "spaceodyssey9"
@@ -255,16 +250,16 @@ highlights:
     LspDiagnosticsDefaultHint: "spaceodyssey7"
 
     # Nvim-tree.nvim
-    NvimTreeFolderName: "spaceodyssey8 spaceodyssey0"
-    NvimTreeFolderIcon: "spaceodyssey9 spaceodyssey0"
-    NvimTreeExecFile: "spaceodyssey14 spaceodyssey0"
-    NvimTreeIndentMarker: "spaceodyssey14 spaceodyssey0"
-    NvimTreeGitDirty: "spaceodyssey11 spaceodyssey0"
-    NvimTreeGitStaged: "spaceodyssey11 spaceodyssey0"
-    NvimTreeGitMerge: "spaceodyssey11 spaceodyssey0"
-    NvimTreeGitRenamed: "spaceodyssey11 spaceodyssey0"
-    NvimTreeGitNew: "spaceodyssey11 spaceodyssey0"
-    NvimTreeRootFolder: "spaceodyssey14 spaceodyssey0"
+    NvimTreeFolderName: "spaceodyssey8 spaceodyssey1"
+    NvimTreeFolderIcon: "spaceodyssey9 spaceodyssey1"
+    NvimTreeExecFile: "spaceodyssey14 spaceodyssey1"
+    NvimTreeIndentMarker: "spaceodyssey14 spaceodyssey1"
+    NvimTreeGitDirty: "spaceodyssey11 spaceodyssey1"
+    NvimTreeGitStaged: "spaceodyssey11 spaceodyssey1"
+    NvimTreeGitMerge: "spaceodyssey11 spaceodyssey1"
+    NvimTreeGitRenamed: "spaceodyssey11 spaceodyssey1"
+    NvimTreeGitNew: "spaceodyssey11 spaceodyssey1"
+    NvimTreeRootFolder: "spaceodyssey14 spaceodyssey1"
 
     # Nvim-Treesitter-rainbow
     rainbowcol1: "spaceodyssey10"
