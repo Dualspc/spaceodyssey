@@ -113,7 +113,7 @@ highlights:
     Special: "spaceodyssey10"
     SpecialChar: "spaceodyssey13"
     SpecialComment: "spaceodyssey8 - i"
-    Statement: "spaceodyssey15"
+    Statement: "spaceodyssey14"
     StorageClass: "spaceodyssey9"
     String: "spaceodyssey14"
     Structure: "spaceodyssey13"
@@ -122,7 +122,7 @@ highlights:
     Type: "spaceodyssey9"
     Typedef: "spaceodyssey9"
     Macro: "spaceodyssey9"
-    PreCondit: "spaceodyssey9"
+    PreCondit: "spaceodyssey11"
 
     # Git
     DiffAdd: "spaceodyssey14"
