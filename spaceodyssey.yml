@@ -122,7 +122,7 @@ highlights:
     Type: "spaceodyssey9"
     Typedef: "spaceodyssey9"
     Macro: "spaceodyssey9"
-    PreCondit: "spaceodyssey11"
+    PreCondit: "spaceodyssey9"
 
     # Git
     DiffAdd: "spaceodyssey14"
